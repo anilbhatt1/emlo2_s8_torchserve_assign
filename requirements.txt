@@ -29,8 +29,8 @@ grpcio
 protobuf
 grpcio-tools
 
-# ----explainability -----#
-git+https://github.com/pytorch/captum.git
+# # ----explainability -----#
+# git+https://github.com/pytorch/captum.git
 
 # --------- others --------- #
 rootutils       # standardizing the project root setup
