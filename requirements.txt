@@ -20,6 +20,18 @@ hydra-optuna-sweeper==1.2.0
 # ------demo -------- #
 gradio==3.44.0
 
+# -----torchserve ------#
+torchserve
+torch-model-archiver
+
+# -----grpc -----#
+grpcio
+protobuf
+grpcio-tools
+
+# ----explainability -----#
+git+https://github.com/pytorch/captum.git
+
 # --------- others --------- #
 rootutils       # standardizing the project root setup
 pre-commit      # hooks for applying linters on commit
