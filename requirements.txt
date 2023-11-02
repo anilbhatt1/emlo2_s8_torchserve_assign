@@ -21,8 +21,8 @@ hydra-optuna-sweeper==1.2.0
 gradio==3.44.0
 
 # -----torchserve ------#
-torchserve
-torch-model-archiver
+#torchserve
+#torch-model-archiver
 
 # -----grpc -----#
 grpcio
